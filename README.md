@@ -8,12 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/miickasmt">
-    <img src="https://img.shields.io/twitter/follow/miickasmt?style=flat&label=miickasmt&logo=twitter&color=0bf&logoColor=fff" alt="Mickasmt Twitter follower count" />
-  </a>
-</p>
-
-<p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#installation"><strong>Installation</strong></a> ·
   <a href="#tech-stack--features"><strong>Tech Stack + Features</strong></a> ·
@@ -99,7 +93,6 @@ https://github.com/mickasmt/next-saas-stripe-starter/assets/62285783/828a4e0f-30
 
 - `useIntersectionObserver` – React hook to observe when an element enters or leaves the viewport
 - `useLocalStorage` – Persist data in the browser's local storage
-- `useScroll` – React hook to observe scroll position ([example](https://github.com/mickasmt/precedent/blob/main/components/layout/navbar.tsx#L12))
 - `nFormatter` – Format numbers with suffixes like `1.2k` or `1.2M`
 - `capitalize` – Capitalize the first letter of a string
 - `truncate` – Truncate a string to a specified length
@@ -115,14 +108,3 @@ https://github.com/mickasmt/next-saas-stripe-starter/assets/62285783/828a4e0f-30
 
 - [Vercel Analytics](https://vercel.com/analytics) – Track unique visitors, pageviews, and more in a privacy-friendly way
 
-## Author
-
-Created by [@miickasmt](https://twitter.com/miickasmt) in 2023, released under the [MIT license](https://github.com/shadcn/taxonomy/blob/main/LICENSE.md).
-
-## Credits
-
-This project was inspired by shadcn's [Taxonomy](https://github.com/shadcn-ui/taxonomy), Steven Tey’s [Precedent](https://github.com/steven-tey/precedent), and Antonio Erdeljac's [Next 13 AI SaaS](https://github.com/AntonioErdeljac/next13-ai-saas).
-
-- Shadcn ([@shadcn](https://twitter.com/shadcn))
-- Steven Tey ([@steventey](https://twitter.com/steventey))
-- Antonio Erdeljac ([@YTCodeAntonio](https://twitter.com/AntonioErdeljac))
