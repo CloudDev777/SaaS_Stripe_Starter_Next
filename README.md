@@ -27,7 +27,7 @@ All seamlessly integrated with the SaaS Starter to accelerate your development a
 Clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app my-saas-project --example "https://github.com/mickasmt/next-saas-stripe-starter"
+npx create-next-app my-saas-project --example "https://github.com/smile101603/next-saas-stripe-starter"
 ```
 
 Or, deploy with Vercel:
