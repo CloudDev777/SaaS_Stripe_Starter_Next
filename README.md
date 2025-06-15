@@ -65,7 +65,7 @@ pnpm run dev
 
 ## Tech Stack + Features
 
-https://github.com/mickasmt/next-saas-stripe-starter/assets/62285783/828a4e0f-30e3-4cfe-96ff-4dfd9cd55124
+https://github.com/CloudDev777/SaaS_Stripe_Starter_Next/assets/62285783/828a4e0f-30e3-4cfe-96ff-4dfd9cd55124
 
 ### Frameworks
 
